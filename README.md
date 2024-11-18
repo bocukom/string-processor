@@ -4,12 +4,12 @@ Brief description of the package.
 
 ## Requirements
 
-- PHP 7.4
+- PHP 8.2
 
 ## Installation
 
 ```bash
-$ composer require denis/fan-composer-package
+$ composer require string/string-processor
 ```
 
 ## Usage
