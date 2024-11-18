@@ -4,7 +4,7 @@ Brief description of the package.
 
 ## Requirements
 
-- PHP 8.2
+- PHP 7.4
 
 ## Installation
 
